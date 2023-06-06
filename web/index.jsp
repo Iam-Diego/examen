@@ -37,6 +37,6 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Html.html to edit thi
               <td>Gerente de Proyecto</td>
             </tr>
           </table>
-          
+          <a href="imagen.jsp">IMAGEN</a>
     </body>
 </html>
